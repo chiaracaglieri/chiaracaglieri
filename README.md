@@ -7,7 +7,8 @@
 </div>
 
 ## About me
-I'm a soon-to-be graduate in Artificial Intelligence, passionate about Machine Learning and **Computer Vision**, always looking for the next Kaggle challenge to keep myself in shape. <br>
+I'm a soon-to-be graduate in Artificial Intelligence, passionate about Machine Learning and **Computer Vision**, always looking for the next Kaggle challenge to keep myself in shape. I recently completed my Computer Vision Dissertation project ***"Explainable Diabetic Retinopathy using ConvNeXt"***, check it out
+<a href="https://github.com/mawady/msc-retinalrecog">here</a>.<br>
 
 The last few years in bullets:
 - MSc Artificial Intelligence (2022) @ University of Stirling
